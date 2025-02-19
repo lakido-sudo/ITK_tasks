@@ -12,7 +12,7 @@
 
 
 ### Реализация: 📁 [Task_1_singletones](https://github.com/lakido-sudo/ITK_tasks/tree/main/Task_1_singletones)
-***
+___
 
 ### 2. Задача - Атрибуты класса
 
@@ -20,6 +20,6 @@
 
 
 ### Реализация: 📁 [Task_2_attributes](https://github.com/lakido-sudo/ITK_tasks/tree/main/Task_2_attributes)
-***
+___
 
 
