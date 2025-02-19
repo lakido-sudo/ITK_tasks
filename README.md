@@ -12,8 +12,7 @@
 
 
 
-### Реализация 
-`Task_1_singletones`
+### Реализация: 📁 [Task_1_singletones](https://github.com/lakido-sudo/ITK_tasks/tree/main/Task_1_singletones)
 
 
 
