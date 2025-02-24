@@ -26,7 +26,8 @@ ___
 
 Если Вам понравились эти реализации и они оказались полезными, Вы можете поддержать меня, сделав небольшой донат. Это будет очень приятно!
 
-[![Донат](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%94%D0%BE%D0%BD%D0%B0%D1%82-orange)](https://www.donationalerts.com/r/lakidos)
+[![Поддержать на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
+[![Поддержать на Boosty](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20Boosty-blue)](https://boosty.to/lakidos/donate)
 
 
 Спасибо!
