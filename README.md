@@ -1,4 +1,4 @@
-# ITK_tasks
+# Some tasks...
 
 #### _Задачи Python_
 
